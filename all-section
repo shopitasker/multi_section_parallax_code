@@ -4,6 +4,8 @@
 - Uses blocks
 {% endcomment %}
 
+<link href="//cdn.shopify.com/s/files/1/0657/0813/t/53/assets/styles.scss.css?v=1022556004691420967" rel="stylesheet" type="text/css" media="all" />
+
 {% if section.blocks.size > 0 %}
   {% for block in section.blocks %}
 
